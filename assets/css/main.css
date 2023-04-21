@@ -2801,8 +2801,8 @@ input, select, textarea {
 			margin: 0;
 		}
 
-			ul.contact > li:first-child {
-				/*! margin-top: 0; */
+			ul.contact > li.contact {
+				width: 200px;
 			}
 
 			ul.contact > li > span {
