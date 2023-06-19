@@ -267,16 +267,16 @@
 	align-items: center;
 }
 
-#one .inner .areas > section .icon img {
+#tratamiento .inner .areas > section .icon img {
 	margin: auto;
 }
 
-#two .features > section .icon {
+#tecnicas .features > section .icon {
 	background-color: transparent;
 }
 
-#one .inner .areas > section .icon img,
-#two .features > section .icon img {
+#tratamiento .inner .areas > section .icon img,
+#tecnicas .features > section .icon img {
 	width: 100%;
 	width: 80%;
 }
